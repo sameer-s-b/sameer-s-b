@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in dev.to posts
+      - name: Pull in Sameer's blog feed
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://www.sameershaik.in/feed/"

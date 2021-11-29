@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 
 
 I s(try)ve to be a software engineer... 🌻
 
